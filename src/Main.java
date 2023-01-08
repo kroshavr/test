@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         novanova();
     }
+
     public static int [] novanova () {
         int [] nova = {12, 26, 48, 78, 98, 22, 11, 13, 75, 36};
         for (int i = 0; i < nova.length; i++) {
